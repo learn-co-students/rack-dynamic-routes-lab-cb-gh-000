@@ -10,3 +10,4 @@ We've provided a basic `Item` class. Let's get more information on our items.
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/rack-dynamic-routes-lab' title='Dynamic Routes and Status Codes'>Dynamic Routes and Status Codes</a> on Learn.co and start learning to code for free.</p>
+k
